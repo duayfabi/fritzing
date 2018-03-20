@@ -8,54 +8,54 @@
 </g>
 <g id="copper1">
 	<g id="leftPads">
-		<rect id="connector16pin" stroke-width="0" y="6.2" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector17pin" stroke-width="0" y="9.8" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector18pin" stroke-width="0" y="13.4" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector19pin" stroke-width="0" y="17" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector20pin" stroke-width="0" y="20.6" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector21pin" stroke-width="0" y="24.2" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector22pin" stroke-width="0" y="27.8" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector23pin" stroke-width="0" y="31.4" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector24pin" stroke-width="0" y="35" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector25pin" stroke-width="0" y="38.6" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector26pin" stroke-width="0" y="42.2" fill="#F7BD10" width="5" height="2.6"/>
-		<rect id="connector27pin" stroke-width="0" y="45.8" fill="#F7BD10" width="5" height="2.6"/>
+		<rect id="connector16pin" y="6.6" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector17pin" y="10.2" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector18pin" y="13.8" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector19pin" y="17.4" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector20pin" y="21" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector21pin" y="24.6" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector22pin" y="28.2" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector23pin" y="31.8" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector24pin" y="35.4" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector25pin" y="39" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector26pin" y="42.6" fill="#F7BD10" width="5.4" height="1.7"/>
+		<rect id="connector27pin" y="46.2" fill="#F7BD10" width="5.4" height="1.7"/>
 	</g>
 	<g id="bottomPads">
-		<rect id="connector28pin" stroke-width="0" x="6.1" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector29pin" stroke-width="0" x="9.7" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector30pin" stroke-width="0" x="13.3" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector31pin" stroke-width="0" x="16.9" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector32pin" stroke-width="0" x="20.5" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector33pin" stroke-width="0" x="24.1" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector34pin" stroke-width="0" x="27.7" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector35pin" stroke-width="0" x="31.3" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector36pin" stroke-width="0" x="34.9" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector37pin" stroke-width="0" x="38.5" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector38pin" stroke-width="0" x="42.1" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector39pin" stroke-width="0" x="45.7" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector40pin" stroke-width="0" x="49.3" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector41pin" stroke-width="0" x="52.9" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector42pin" stroke-width="0" x="60.1" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector43pin" stroke-width="0" x="63.7" y="49.6" fill="#F7BD10" width="2.6" height="5"/>
+		<rect id="connector28pin" x="6.5" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector29pin" x="10.1" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector30pin" x="13.7" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector31pin" x="17.3" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector32pin" x="20.9" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector33pin" x="24.5" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector34pin" x="28.1" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector35pin" x="31.7" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector36pin" x="35.3" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector37pin" x="38.9" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector38pin" x="42.5" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector39pin" x="46.1" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector40pin" x="49.7" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector41pin" x="53.3" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector42pin" x="60.5" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector43pin" x="64.1" y="49.2" fill="#F7BD10" width="1.7" height="5.4"/>
 	</g>
 	<g id="topPads">
-		<rect id="connector15pin" stroke-width="0" x="6.1" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector14pin" stroke-width="0" x="9.7" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector13pin" stroke-width="0" x="13.3" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector12pin" stroke-width="0" x="16.9" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector11pin" stroke-width="0" x="20.5" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector10pin" stroke-width="0" x="24.1" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector9pin" stroke-width="0" x="27.7" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector8pin" stroke-width="0" x="31.3" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector7pin" stroke-width="0" x="34.9" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector6pin" stroke-width="0" x="38.5" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector5pin" stroke-width="0" x="42.1" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector4pin" stroke-width="0" x="45.7" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector3pin" stroke-width="0" x="49.3" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector2pin" stroke-width="0" x="52.9" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector1pin" stroke-width="0" x="60.1" y="0" fill="#F7BD10" width="2.6" height="5"/>
-		<rect id="connector0pin" stroke-width="0" x="63.7" y="0" fill="#F7BD10" width="2.6" height="5"/>
+		<rect id="connector15pin" x="6.5" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector14pin" x="10.1" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector13pin" x="13.7" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector12pin" x="17.3" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector11pin" x="20.9" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector10pin" x="24.5" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector9pin" x="28.1" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector8pin" x="31.7" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector7pin" x="35.3" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector6pin" x="38.9" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector5pin" x="42.5" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector4pin" x="46.1" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector3pin" x="49.7" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector2pin" x="53.3" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector1pin" x="60.5" y="0" fill="#F7BD10" width="1.7" height="5.4"/>
+		<rect id="connector0pin" x="64.1" y="0" fill="#F7BD13" width="1.7" height="5.4"/>
 	</g>
 	<g id="copper0">
 	</g>

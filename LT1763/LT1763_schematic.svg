@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.2" baseProfile="tiny" id="schematic" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1.0937083in" height="0.6784583in"
+	 viewBox="0 0 78.7 48.8" xml:space="preserve">
+<rect x="14.7" y="0.2" fill="#FFFFFF" stroke="#000000" stroke-width="0.3175" stroke-linecap="round" width="49.5" height="34.2"/>
+<line id="connector7pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="64.2" y1="7.2" x2="78.6" y2="7.2"/>
+<text transform="matrix(1 0 0 1 59.1365 7.9155)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">IN</text>
+<line id="connector4pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="64.2" y1="21.6" x2="78.6" y2="21.6"/>
+<text transform="matrix(1 0 0 1 52.7156 22.3159)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">!SHDN</text>
+<line id="connector0pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.1" y1="7.2" x2="14.5" y2="7.2"/>
+<text transform="matrix(1 0 0 1 15.9744 7.9155)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">OUT</text>
+<line id="connector1pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.1" y1="14.4" x2="14.5" y2="14.4"/>
+<text transform="matrix(1 0 0 1 15.9744 15.1167)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">ADJ</text>
+<line id="connector3pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="0.1" y1="21.6" x2="14.5" y2="21.6"/>
+<text transform="matrix(1 0 0 1 15.9744 22.3159)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">B</text>
+<text transform="matrix(1 0 0 1 18.114 22.3159)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">Y</text>
+<text transform="matrix(1 0 0 1 19.9578 22.3159)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">P</text>
+<text id="label" transform="matrix(1 0 0 1 32.2355 15.3365)" font-family="'DroidSans'" font-size="4.25px">LT1763</text>
+<line id="connector6pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="35.9" y1="48.5" x2="35.9" y2="48.7"/>
+<line id="connector5pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="35.9" y1="48.5" x2="35.9" y2="48.7"/>
+<line id="connector2pin" fill="none" stroke="#787878" stroke-width="0.2469" stroke-linecap="round" x1="35.9" y1="34.3" x2="35.9" y2="48.7"/>
+<text transform="matrix(-1.836970e-16 -1 1 -1.836970e-16 36.9129 32.2907)" fill="#8C8C8C" font-family="'DroidSans'" font-size="3.5px">GND</text>
+</svg>
