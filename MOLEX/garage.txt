@@ -1,6 +1,0 @@
-
-
-pin 1	->	-11.0v
-pin 2	->	+1.3v
-pin 5	->	GND
-pin 6	->	alternatif 20 volts
